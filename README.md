@@ -6,7 +6,7 @@ I am resuming my self-taught journey while working fulltime in another field. Ja
 
 🧠  Working through JavaScript, HTML, CSS
 
-💡 Exploring Pythin, SQL
+💡 Exploring Python, SQL
 
 <!--
 **TaterTravels/TaterTravels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
